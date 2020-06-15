@@ -21,3 +21,5 @@ Target Variable: Selling_Price
 ## Online cv: 0.64639
 
 ## Leaderboard rank: 25
+
+![e comm](https://user-images.githubusercontent.com/56091634/84690600-5c63ff80-af60-11ea-9ac3-9ab8830c0e6b.png)
