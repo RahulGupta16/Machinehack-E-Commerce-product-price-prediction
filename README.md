@@ -1,4 +1,4 @@
-# Machinehack-E-Commerce-product-price-prediction
+# E-commerce Price Prediction: Weekend Hackathon 
 
 ![E-COMMERCEBANNER-02-1536x864](https://user-images.githubusercontent.com/56091634/84688682-5d476200-af5d-11ea-82c5-089db1b6dad5.jpg)
 
@@ -20,4 +20,4 @@ Target Variable: Selling_Price
 
 ## Online cv: 0.64639
 
-## Rank: 25
+## Leaderboard rank: 25
