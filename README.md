@@ -1,4 +1,4 @@
-# E-commerce Price Prediction: Weekend Hackathon 
+# E-commerce Price Prediction: Weekend Hackathon #8 
 
 ![E-COMMERCEBANNER-02-1536x864](https://user-images.githubusercontent.com/56091634/84688682-5d476200-af5d-11ea-82c5-089db1b6dad5.jpg)
 
@@ -16,10 +16,10 @@ Target Variable: Selling_Price
 
 ## Evaluation : The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-## Local cv: 0.65
+## Leaderboard rank: 25
+
+   ![e comm](https://user-images.githubusercontent.com/56091634/84690600-5c63ff80-af60-11ea-9ac3-9ab8830c0e6b.png)
 
 ## Online cv: 0.64639
 
-## Leaderboard rank: 25
-
-![e comm](https://user-images.githubusercontent.com/56091634/84690600-5c63ff80-af60-11ea-9ac3-9ab8830c0e6b.png)
+## Local cv: 0.65
