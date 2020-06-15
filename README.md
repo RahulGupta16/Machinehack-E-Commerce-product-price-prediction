@@ -6,17 +6,18 @@ E-commerce platforms have been in existence for more than 2 decades now. The pop
 
 Given are 7 distinguishing factors that can influence the price of a product on an e-commerce platform. Your objective as a data scientist is to build a machine learning model that can accurately predict the price of a product based on the given factors.
 
-Data Description:-
+## Data Description:-
+
 The unzipped folder will have the following files.
 Train.csv –  2452 observations.
 Test.csv –  1051 observations.
 Sample Submission – Sample format for the submission.
 Target Variable: Selling_Price
 
-# Evaluation : The leaderboard is evaluated using RMSLE for the participant’s submission.
+## Evaluation : The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-# Rank: 25
+## Local cv: 0.65
 
-# Local cv: 0.65
+## Online cv: 0.64639
 
-# Online cv: 0.64639
+## Rank: 25
