@@ -16,9 +16,11 @@ Target Variable: Selling_Price
 
 ## Evaluation : The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-## Leaderboard rank: 25
+## Leaderboard rank: 24
 
-   ![e comm](https://user-images.githubusercontent.com/56091634/84690600-5c63ff80-af60-11ea-9ac3-9ab8830c0e6b.png)
+
+![ecommr](https://user-images.githubusercontent.com/56091634/90960805-e03aea80-e4c1-11ea-8794-a7989a5cf099.png)
+
 
 ## Online cv: 0.64639
 
