@@ -16,7 +16,7 @@ Target Variable: Selling_Price
 
 ## Evaluation : The leaderboard is evaluated using RMSLE for the participant’s submission.
 
-## Best solution: rf_cleaned.ipynb
+## Best solution: RF_cleaned.ipynb
 
 ## Leaderboard rank: 24
 
